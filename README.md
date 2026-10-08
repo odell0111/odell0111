@@ -1,6 +1,6 @@
 ## Hi, I'm Odell
 
-> I don't just consume APIs; I reverse engineer them.
+> I don't just consume APIs; I reverse engineer them
 
 Self-taught developer since 2018. I build automation, integrations and desktop
 tools — and I read the protocol underneath before I trust it.
